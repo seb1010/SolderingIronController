@@ -19,7 +19,7 @@
 
 
 <img src="images/controlSCH.png" width="80%" />
-above: low-pass, PWM circuitry.    below: zero cross below
+above: low-pass through PWM circuitry.    below: zero cross
 <img src="images/zeroCrossSCH.png" width="80%" />
 
 #### Active Low-Pass Filter
