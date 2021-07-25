@@ -17,8 +17,9 @@
   1. Zero cross detection
   1. MOSFET gate
 
-<img src="images/controlSCH.png" width="80%" />
 
+<img src="images/controlSCH.png" width="80%" />
+above: low-pass, PWM circuitry.    below: zero cross below
 <img src="images/zeroCrossSCH.png" width="80%" />
 
 #### Active Low-Pass Filter
