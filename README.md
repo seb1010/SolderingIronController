@@ -15,7 +15,6 @@
   1. Opamp with compenstion network
   1. PWM circuitry
   1. Zero cross detection
-  1. MOSFET gate
 
 
 <img src="images/controlSCH.png" width="80%" />
