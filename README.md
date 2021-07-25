@@ -66,9 +66,12 @@
 * Double sided
 * Ordered from prototyping service (JLC PCB)
 * I had to hand-solder everything
+
 <img src="images/connBoard.JPG" width="40%" />
-* connected to existing case with M3 screws and bits of metal cut from a can
-  * seems crude but the board stays in place. Also the can is too flexible to put much stress on the board, so chip capacitors are unlikely to crack.
+
+* Connected to existing case with M3 screws and bits of metal cut from a can
+  * This may seem crude, but the board stays in place. Also the can is too flexible to put much stress on the board, so chip capacitors are unlikely to crack.
+
 <img src="images/mech.JPG" width="40%" />
 
 ## Results
