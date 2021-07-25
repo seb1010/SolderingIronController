@@ -67,7 +67,7 @@
 * Ordered from prototyping service (JLC PCB)
 * I had to hand-solder everything
 
-<img src="images/connBoard.JPG" width="40%" />
+<img src="images/nonConn.JPG" width="40%" />
 
 * Connected to existing case with M3 screws and bits of metal cut from a can
   * This may seem crude, but the board stays in place. Also the can is too flexible to put much stress on the board, so chip capacitors are unlikely to crack.
