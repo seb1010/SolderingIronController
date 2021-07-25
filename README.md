@@ -17,6 +17,10 @@
   1. Zero cross detection
   1. MOSFET gate
 
+<img src="images/controlSCH.png" width="80%" />
+
+img src="images/zeroCrossSCH.png" width="80%" />
+
 #### Active Low-Pass Filter
  * Purpose
    1. Remove a troublesome 60Hz ripple
