@@ -19,7 +19,7 @@
 
 <img src="images/controlSCH.png" width="80%" />
 
-img src="images/zeroCrossSCH.png" width="80%" />
+<img src="images/zeroCrossSCH.png" width="80%" />
 
 #### Active Low-Pass Filter
  * Purpose
