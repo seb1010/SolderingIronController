@@ -19,8 +19,8 @@
 
 #### Active Low-Pass Filter
  * Purpose
-  1. Remove a troublesome 60Hz ripple
-  1. Increase the small voltage from the thermistor
+   1. Remove a troublesome 60Hz ripple
+   1. Increase the small voltage from the thermistor
  * low voltage was a result of low resistance of thermistor and trying to avoid self-heating or using much power
  * gain is 23 v/v for DC
  * 2 poles at about 11 Hz
@@ -55,18 +55,19 @@
 
 ### Power Supply for Control Circuitry
  * Shunt Zener Regulator
-  * used a current source in place of usual resitor due to issues caused by 60 Hz ripple on supply rail
+   * used a current source in place of usual resitor due to issues caused by 60 Hz ripple on supply rail
  * avoided electrolytic capacitors bc the the case can get quite warm
 
 <img src="images/powerSupplySCH.png" width="80%" />
 
 
 ### PCB
+* Had to fit in existing case
 * Double sided
 * Ordered from prototyping service (JLC PCB)
 * I had to hand-solder everything
 <img src="images/connBoard.JPG" width="40%" />
- * connected to existing case with M3 screws and bits of metal cut from a can
+* connected to existing case with M3 screws and bits of metal cut from a can
   * seems crude but the board stays in place. Also the can is too flexible to put much stress on the board, so chip capacitors are unlikely to crack.
 <img src="images/mech.JPG" width="40%" />
 
