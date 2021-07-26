@@ -17,10 +17,6 @@
   1. Zero cross detection
 
 
-<img src="images/controlSCH.png" width="80%" />
-above: low-pass through PWM circuitry.    below: zero cross
-<img src="images/zeroCrossSCH.png" width="80%" />
-
 #### Active Low-Pass Filter
  * Purpose
    1. Remove a troublesome 60Hz ripple
@@ -79,8 +75,6 @@ above: low-pass through PWM circuitry.    below: zero cross
 <img src="images/mech.JPG" width="40%" />
 
 ## Results
- * It has little to no practical improvement over the original hysteresis style controller
- * That said I've used this new controller for a while and I like it
- * It seems to provide excellent regulation of the heating element temperature, but in practice this is rather useless. I believe this is due to poor coupling between heating element and  the actual tip.
+ * It seems to provide excellent regulation of the heating element temperature, but in this isn't enough to make a great soldering iron. I believe this system is let down by poor coupling between heating element and  the actual tip.
 <img src="images/tranIron.JPG" width="80%" />
 In the above picture the reference voltage was changed a little and the controller was able to adjust the temperature of the heating element with minimal overshoot in just a few hundred milliseconds. Channel 1 is the Gate Source voltage of the MOSFETs and Channel 2 is the input to the PWM "comparator".
